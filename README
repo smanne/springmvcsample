@@ -1,1 +1,4 @@
 This is sample project based on Spring MVC, JPA 2 with Hibernate, Mysql, Maven 2, It contains example related to internationalization, data binding, data validation, controller request mapping, jpa persistense example with tables having onetoone relationship.
+
+This source code is released under GNU General Public License
+http://www.gnu.org/licenses/
